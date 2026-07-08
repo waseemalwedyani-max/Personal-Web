@@ -1,4 +1,4 @@
-# 🚀 Personal Portfolio Website - Project Documentation
+# 🚀 Personal Portfolio Website 
 
 ## 📝 Project Overview
 This project constitutes the final submission for the assigned task under the Smart Methods Summer Training 2026 program. The primary objective was to design and deploy a professional personal portfolio website to showcase engineering projects, research interests, and technical skills in embedded systems and AI.
